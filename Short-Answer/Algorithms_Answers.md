@@ -8,7 +8,7 @@ a) O(n) because we are incrementing a 2n times until we break, and O(n) is a sub
 b) O(n^2) because we are using a nested loop
 
 
-c) O(1^n) where n is the number of recursive calls
+c) O(n) because O(n^1) is reduced to linear time since we're only making one recursive call
 
 ## Exercise II
 
